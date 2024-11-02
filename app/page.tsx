@@ -48,7 +48,7 @@ export default function Page() {
         )}
       </div>
       <div className="flex flex-col flex-1 bg-zinc-950 justify-center items-center">
-        <Link href="/tytan.dev">
+        <Link href="https://tytan.dev" target="_blank">
           <Button variant="link" className="text-5xl font-cormorantGaramond">Tytan Codes</Button>
         </Link>
       </div>
